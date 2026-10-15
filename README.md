@@ -35,5 +35,4 @@
 
 ### 🌐 Contacto
 
-- 💼 **LinkedIn:** [Carlos Montesdeoca](https://linkedin.com/in/tu-perfil)
 - 📧 **Correo:** `carlosmv.csc@gmail.com`
