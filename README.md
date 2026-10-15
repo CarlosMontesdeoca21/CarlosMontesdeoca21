@@ -6,7 +6,7 @@
 <!-- Banner superior animado con degradado de ondas -->
 ![Header Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header)
 
-Carlos Montesdeoca Vega
+**Carlos Montesdeoca Vega**
 
 </div>
 
