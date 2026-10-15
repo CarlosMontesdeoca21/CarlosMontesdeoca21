@@ -24,11 +24,12 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,java,c,r,git,github,linux,vscode,markdown,windows" />
+    <img src="https://skillicons.dev/icons?i=py,java,c,r,dart,flutter,git,github,linux,vscode,markdown,windows" />
   </a>
 </p>
 
-- 💻 **Lenguajes:** Python, Java, C, R
+- 💻 **Lenguajes:** Python, Java, C, R, Dart
+- 📱 **Frameworks:** Flutter
 - 🧠 **Especialidades:** Machine Learning, Análisis de Datos, Modelado Algorítmico
 - 🛠️ **Herramientas & Entorno:** Git, GitHub, Linux, VS Code
 
