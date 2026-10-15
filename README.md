@@ -1,8 +1,5 @@
 <div align="center">
-
-<!-- Badge del contador de visitas -->
-![Profile views](https://komarev.com/ghpvc/?username=CarlosMontesdeoca21&color=007ec6)
-
+  
 <!-- Banner superior animado con degradado de ondas -->
 ![Header Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header)
 
